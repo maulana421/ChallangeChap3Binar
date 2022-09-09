@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Challange3WithNavComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string-array name="A">
+        <item>Asuka</item>
+        <item>Anji</item>
+        <item>Ariel noah</item>
+        <item>Anya</item>
+    </string-array>
+
+    <string-array name="B">
+        <item>Bintal</item>
+        <item>Bansos</item>
+        <item>Basreng</item>
+        <item>Baszoka</item>
+    </string-array>
+
+    <string-array name="C">
+        <item>Cantik</item>
+        <item>Cindung</item>
+        <item>Cicak</item>
+    </string-array>
+
+    <string-array name="D">
+        <item>Daging</item>
+        <item>Demon slayer</item>
+        <item>Ded</item>
+        <item>Dono</item>
+        <item>Doddy</item>
+        <item>Dasha taran</item>
+    </string-array>
+
+    <string-array name="E">
+        <item>Expo</item>
+        <item>Elearning</item>
+        <item>Es</item>
+    </string-array>
+
+    <string-array name="F">
+        <item>Figma</item>
+        <item>Flaticon</item>
+        <item>Facebook</item>
+    </string-array>
+
+    <string-array name="G">
+        <item>Gartic</item>
+        <item>Gaji</item>
+        <item>Gambar pemandangan</item>
+        <item>Gsding martin</item>
+    </string-array>
+
+    <string-array name="H">
+        <item>Hitler</item>
+        <item>Hansaplas</item>
+        <item>Heroku</item>
+    </string-array>
+
+    <string-array name="I">
+        <item>Induk</item>
+        <item>Icon</item>
+        <item>Idlix</item>
+    </string-array>
+
+    <string-array name="J">
+        <item>Joseph Stalin</item>
+        <item>Jingga</item>
+        <item>Janggut</item>
+    </string-array>
+
+    <string-array name="K">
+        <item>Killua</item>
+        <item>Koala</item>
+        <item>Kikil Sapi</item>
+    </string-array>
+
+    <string-array name="L">
+        <item>Lebah</item>
+        <item>Lidah</item>
+        <item>Lampu</item>
+    </string-array>
+
+    <string-array name="M">
+        <item>Makan</item>
+        <item>Mangaku</item>
+        <item>Mangkuk</item>
+        <item>Mamoth</item>
+    </string-array>
+    <string-array name="N">
+        <item>Node js</item>
+        <item>Napoleon</item>
+        <item>Navigation</item>
+    </string-array>
+    <string-array name="O">
+        <item>otakudesu</item>
+        <item>Otot</item>
+        <item>Om Mobi</item>
+    </string-array>
+    <string-array name="P">
+        <item>Panci</item>
+        <item>Palu</item>
+        <item>Padalarang</item>
+    </string-array>
+    <string-array name="Q">
+        <item>Quotes</item>
+        <item>Qendi</item>
+        <item>Qeon</item>
+    </string-array>
+    <string-array name="R">
+        <item>Rafatar</item>
+        <item>Radang</item>
+        <item>React Native</item>
+    </string-array>
+    <string-array name="S">
+        <item>Sandal</item>
+        <item>Samehadaku</item>
+        <item>Santa Cruz</item>
+        <item>Salam</item>
+    </string-array>
+    <string-array name="T">
+        <item>Tiktok</item>
+        <item>Twitter</item>
+        <item>Taman</item>
+    </string-array>
+    <string-array name="U">
+        <item>Unipin</item>
+        <item>Ucl</item>
+        <item>Ukuran</item>
+    </string-array>
+    <string-array name="V">
+        <item>Vertigo</item>
+        <item>Vs Code</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="W">
+        <item>Wallpaper</item>
+        <item>Whatsapp</item>
+        <item>Wara Wiri</item>
+    </string-array>
+    <string-array name="X">
+        <item>Xampp</item>
+        <item>Xenia</item>
+        <item>Xender</item>
+    </string-array>
+    <string-array name="Y">
+        <item>Yandex</item>
+        <item>Yosua</item>
+        <item>Yuzhong</item>
+    </string-array>
+    <string-array name="Z">
+        <item>Zanuba</item>
+        <item>Zebra</item>
+        <item>Zami</item>
+    </string-array>
+</resources>
